@@ -1,6 +1,6 @@
 # Dance Force Mod
 This is an `Ultimate Chicken Horse` `BepInEx` mod that allows the host to force select a level.
-Pressing `R` (dance key) for 1 second while the first player on host stands on a level starts it directly.
+Hold `R` (dance key) for 1 second when on a level platform (in treehouse) as first player on host to start a level directly.
 
 Bonus feature: Lets you party on your own.
 
